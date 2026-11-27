@@ -1,0 +1,6 @@
+{
+  "name": "SnapClass",
+  "description": "Making Attendance Faster and Smarter Using AI — Face & Voice Biometric Classroom Attendance Platform",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
